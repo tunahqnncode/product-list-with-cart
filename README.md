@@ -21,9 +21,9 @@ product-list-with-cart
 
 ├── assets/
 
-│   ├── fonts/
+   ├── fonts/
 
-│   └── images/
+   └── images/
 
 ├── index.html
 
