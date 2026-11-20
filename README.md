@@ -18,10 +18,17 @@ Mobil öncelikli (mobile-first) yaklaşım ve HTML, CSS, JavaScript kullanılara
 
 ## Dosya Yapısı
 product-list-with-cart
+
 ├── assets/
+
 │   ├── fonts/
+
 │   └── images/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
