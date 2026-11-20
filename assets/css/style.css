@@ -315,7 +315,6 @@ ul {
     background-color: var(--color-red-dark);
 }
 
-/* [hidden] kuralı en sonda dursun ki flex/grid kurallarını ezmesin */
 [hidden] {
     display: none;
 }
