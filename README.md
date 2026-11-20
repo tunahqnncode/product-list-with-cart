@@ -20,15 +20,9 @@ Mobil öncelikli (mobile-first) yaklaşım ve HTML, CSS, JavaScript kullanılara
 product-list-with-cart
 
 ├── assets/
-
-   ├── fonts/
-
-   └── images/
-
+│   ├── fonts/
+│   └── images/
 ├── index.html
-
 ├── style.css
-
 ├── script.js
-
 └── README.md
